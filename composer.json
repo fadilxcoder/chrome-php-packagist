@@ -1,7 +1,6 @@
 {
     "name": "fadilxcoder/chrome-php-logger",
     "description": "ChromePhp is a PHP library for the Chrome Logger Google Chrome extension",
-    "version": "master",
     "type": "package",
     "require": {
         "php": ">=7.2.0"
@@ -15,12 +14,5 @@
     ],
     "autoload": {
         "psr-4": {"Logger\\Chrome\\": "src/"}
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "1.0-dev"
-        }
-    },
-    "minimum-stability": "dev",
-    "prefer-stable": true
+    }
 }
