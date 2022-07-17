@@ -13,8 +13,14 @@
             "email": "fadilxcoder@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {"Logger\\Chrome\\": "src/"}
-    }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0.0-dev"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
