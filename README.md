@@ -1,5 +1,7 @@
-<img style="width: 50px; vertical-align:middle;" src="https://lh3.googleusercontent.com/10bKCQrDOnfMZ9JmEwDObN02eeQWZuCHwhmlAUtKKDwzA6vQxlOptoGoUroXzU9giN8q7eUKqehjTfJCM4hnoCCijg=w128-h128-e365-rj-sc0x00ffffff" /> Chrome PHP Logger
+Chrome PHP Logger
 =======================================
+
+<img style="width: 50px; vertical-align:middle;" src="https://lh3.googleusercontent.com/10bKCQrDOnfMZ9JmEwDObN02eeQWZuCHwhmlAUtKKDwzA6vQxlOptoGoUroXzU9giN8q7eUKqehjTfJCM4hnoCCijg=w128-h128-e365-rj-sc0x00ffffff" /> 
 
 Chrome Logger is a Google Chrome extension for debugging server side applications in the Chrome console.
 
