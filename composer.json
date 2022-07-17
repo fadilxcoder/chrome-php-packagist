@@ -1,5 +1,5 @@
 {
-    "name": "fx/chrome-php-logger",
+    "name": "fadilxcoder/chrome-php-logger",
     "description": "ChromePhp is a PHP library for the Chrome Logger Google Chrome extension",
     "version": "master",
     "type": "package",
